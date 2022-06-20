@@ -1,12 +1,13 @@
 # Dimension Blade
-
-
-this is the docs inside yrm.
 it'll work with just vanilla MCO
+
+this is the requirement or docs/readme stated by yrm.
+
+MCO - needed
 
 Simple Movement Keytrace - is easy to replicate, he uses this to get up down left right input for DAR
 
-it seems he has created some vfx to go along called "NotEnoughEffects" in his patreon - can ignore
+"NotEnoughEffects" in his patreon - can ignore, it seems he has created some vfx to go along 
 
 TKDodge - can ignore
 
